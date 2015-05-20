@@ -1,0 +1,21 @@
+{
+  "name": "demojavascrip",
+  "version": "0.0.0",
+  "description": "Demo some features of JavaScript",
+  "main": "index,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyennamnd1989/basicjavasrip.git"
+  },
+  "keywords": [
+    "JavaScrip"
+  ],
+  "author": "nguyennamnd1989",
+  "license": "\"MIT\"",
+  "bugs": {
+    "url": "https://github.com/nguyennamnd1989/basicjavasrip/issues"
+  }
+}
