@@ -6,3 +6,4 @@ demo array programming
  *nano .gitignore
  *git add --all
  *git commit -m "first time "
+ tretretrterre
